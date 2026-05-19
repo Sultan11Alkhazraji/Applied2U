@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Gemma 4 Good Hackathon](https://img.shields.io/badge/Gemma-4-Good-Hackathon-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Live Demo](https://img.shields.io/badge/Live-Demo-Online-brightgreen?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Platform: Web](https://img.shields.io/badge/Platform-Web-blue)
+![AI: Gemma 4](https://img.shields.io/badge/AI-Gemma_4-purple)
 
 **Turn any content into your personalized 30-day growth plan, powered by Google Gemma 4 AI**
 
