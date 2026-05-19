@@ -70,22 +70,22 @@ Applied2u is a web application that extracts key insights from any content (arti
 ┌─────────────────────────────────────────────────────────┐
 │                     Applied2u                           │
 ├─────────────────────────────────────────────────────────┤
-│  Input Methods:                                        │
-│  ├── Text (paste)                                      │
-│  ├── PDF (upload)                                      │
-│  └── URL (fetch)                                       │
+│  Input Methods:                                         │
+│  ├── Text (paste)                                       │
+│  ├── PDF (upload)                                       │
+│  └── URL (fetch)                                        │
 ├─────────────────────────────────────────────────────────┤
-│  AI Processing:                                        │
-│  ├── Google AI Studio (Cloud)                          │
-│  └── OpenAI-Compatible API (Local)                     │
+│  AI Processing:                                         │
+│  ├── Google AI Studio (Cloud)                           │
+│  └── OpenAI-Compatible API (Local)                      │
 ├─────────────────────────────────────────────────────────┤
-│  Output:                                               │
-│  ├── The One Thing                                     │
-│  ├── Key Insights                                      │
-│  ├── Action Steps                                      │
-│  └── 30-Day Growth Plan                                │
+│  Output:                                                │
+│  ├── The One Thing                                      │
+│  ├── Key Insights                                       │
+│  ├── Action Steps                                       │
+│  └── 30-Day Growth Plan                                 │
 ├─────────────────────────────────────────────────────────┤
-│  Exports: Markdown | Email | Google Calendar           │
+│  Exports: Markdown | Email | Google Calendar            │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Google DeepMind](https://deepmind.google/) — Gemma 4 model
 - [Gemma 4 Good Hackathon](https://www.kaggle.com/competitions/gemma-4-good-hackathon) — Competition
