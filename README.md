@@ -53,7 +53,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 ### Local Mode (Offline/Privacy-First)
 
 1. Download [LM Studio](https://lmstudio.ai/) (or any other local setup)
-2. Download a Gemma 4 model (e.g., `google/gemma-4-27b-a4b`)
+2. Download a Gemma 4 model (e.g., `google/gemma-4-26b-a4b`)
 3. Start the local server
 4. Open the app in your browser
 5. Select **Local** mode
