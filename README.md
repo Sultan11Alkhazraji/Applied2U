@@ -111,15 +111,6 @@ Applied2u uses carefully crafted prompts to get structured output from Gemma 4:
 
 ---
 
-## 🤝 Challenges Overcome
-
-1. **CORS issues** → Multiple proxy fallbacks for URL fetching
-2. **Truncated responses** → Increased max tokens to 4096
-3. **Empty AI responses** → Context-aware content optimization
-4. **Calendar export** → Switched to ICS file format for compatibility
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
