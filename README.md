@@ -8,7 +8,7 @@
 
 **Turn any content into your personalized 30-day growth plan, powered by Google Gemma 4 AI**
 
-[🚀 Live Demo]([https://sultan11alkhazraji.github.io/Applied2U/](https://sultan11alkhazraji.github.io/Applied2U/)) · [📂 Code](https://github.com/Sultan11Alkhazraji/Applied2U) · 
+[🚀 Live Demo](https://sultan11alkhazraji.github.io/Applied2U/) · [📂 Code](https://github.com/Sultan11Alkhazraji/Applied2U) · 
 
 </div>
 
