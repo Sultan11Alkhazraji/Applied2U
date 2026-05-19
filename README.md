@@ -43,7 +43,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 
 ### Cloud Mode (Online)
 
-1. Open [Applied2u Live Demo](https://sultan11alkhazraji.github.io/applied2u/)
+1. Open [Applied2u Live Demo](https://sultan11alkhazraji.github.io/Applied2U/)
 2. Select **Cloud API** mode
 3. Get a free API key from [Google AI Studio](https://aistudio.google.com/apikey)
 4. Enter your API key
@@ -52,7 +52,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 
 ### Local Mode (Offline/Privacy-First)
 
-1. Download [LM Studio](https://lmstudio.ai/)
+1. Download [LM Studio](https://lmstudio.ai/) (or any other local setup)
 2. Download a Gemma 4 model (e.g., `google/gemma-4-27b-a4b`)
 3. Start the local server
 4. Open the app in your browser
