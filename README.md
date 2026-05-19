@@ -8,7 +8,7 @@
 
 **Turn any content into your personalized 30-day growth plan, powered by Google Gemma 4 AI**
 
-[🚀 Live Demo](https://sultan11alkhazraji.github.io/Applied2U/) · [📂 Code](https://github.com/Sultan11Alkhazraji/Applied2U) · [🎥 Demo Video](https://www.youtube.com/watch?v=your-video-id)
+[🚀 Live Demo]([https://sultan11alkhazraji.github.io/Applied2U/](https://sultan11alkhazraji.github.io/Applied2U/)) · [📂 Code](https://github.com/Sultan11Alkhazraji/Applied2U) · 
 
 </div>
 
@@ -28,7 +28,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 | Feature | Description |
 |---------|-------------|
 | ☁️ **Cloud Mode** | Use Google AI Studio API |
-| 🖥️ **Local Mode** | Run Gemma 4 offline via LM Studio, Ollama, Jan |
+| 🖥️ **Local Mode** | Run Gemma 4 offline via LM Studio, Ollama, Jan, AnythingLLM, LocalAI and Custom |
 | 📄 **PDF Support** | Upload and analyze PDF documents |
 | 🔗 **URL Support** | Enter any article URL |
 | ✏️ **Text Input** | Paste content directly |
