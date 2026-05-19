@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Description
+## Description
 
 Applied2u is a web application that extracts key insights from any content (articles, PDFs, URLs) and transforms them into actionable growth plans. Using Google's **Gemma 4 AI model**, it delivers:
 
@@ -39,7 +39,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Cloud Mode (Online)
 
@@ -99,7 +99,7 @@ Applied2u uses carefully crafted prompts to get structured output from Gemma 4:
 
 ---
 
-## 📸 Examples
+## Examples
 
 ### Input: Spanish Learning Article
 - **The One Thing**: "Consistency and immersion are more critical than raw intelligence when mastering a new language"
@@ -111,7 +111,7 @@ Applied2u uses carefully crafted prompts to get structured output from Gemma 4:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
