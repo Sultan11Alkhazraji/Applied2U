@@ -62,7 +62,7 @@ Applied2u is a web application that extracts key insights from any content (arti
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ### Architecture
 
